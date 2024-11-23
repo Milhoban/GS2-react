@@ -64,8 +64,10 @@ Antes de iniciar o projeto, certifique-se de ter o **Node.js** instalado em sua 
 
 
 
-## Alunos
+## **Alunos**
 
-**BENJAMIM LUCAS RODRIGUES GONÇALO RM96026 - 3ECR
-**Ingrydh Santos Potter Rm94731 - 3ECA
-**Vitor de Andrade Ferreira Dias RM957132 - 3ECR
+- **BENJAMIM LUCAS RODRIGUES GONÇALO RM96026** - 3ECR
+
+- **Ingrydh Santos Potter Rm94731** - 3ECA
+
+- **Vitor de Andrade Ferreira Dias RM957132** - 3ECR
