@@ -61,3 +61,11 @@ Antes de iniciar o projeto, certifique-se de ter o **Node.js** instalado em sua 
     ```
 
    O projeto estará disponível no endereço `http://localhost:3000`.
+
+
+
+## Alunos
+
+BENJAMIM LUCAS RODRIGUES GONÇALO RM96026 - 3ECR
+Ingrydh Santos Potter Rm94731 - 3ECA
+Vitor de Andrade Ferreira Dias RM957132 - 3ECR
